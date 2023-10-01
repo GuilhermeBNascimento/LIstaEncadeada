@@ -1,4 +1,4 @@
-class Node:
+class Nodo:
     def __init__(self, valor = 0, ant = None, Prox = None):
         self.__valor = valor
         self.__ant = ant
